@@ -88516,7 +88516,7 @@ h=A.aAV(m+"Pc = "+A.de(a1,5)+" bar, so Pr = "+A.de(a.d/a1,3),"Absolute pressure"
 p=A.XO(b,"Which root to report")
 a=A.aDx(b,B.Ky,new A.a_l(d),a.e,t.PV)
 a1=A.aw6(b,s!=null&&s.y.length>1?"Three roots exist here. Auto picks the stable one (lowest fugacity).":"Only one root at this state, so all three give the same answer.",!1)
-m=A.XO(b,"Try an example")
+m=A.XO(b,"Some common real world conditions")
 i=t.p
 g=A.b([],i)
 for(f=b.w,l=0;l<4;++l){e=B.Ia[l]
